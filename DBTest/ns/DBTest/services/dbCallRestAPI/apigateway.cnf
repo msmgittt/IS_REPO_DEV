@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="http://daeipresal03336.eur.ad.sag:5555">4da01eef-634b-414c-aa89-dd1d33763897</value>
+  </record>
+</IDataXMLCoder>
